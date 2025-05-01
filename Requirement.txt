@@ -1,0 +1,7 @@
+- selenium web driver
+- Beautifulsoup
+- re
+- pandas
+- numpy
+- seaborn
+- matplotlib
